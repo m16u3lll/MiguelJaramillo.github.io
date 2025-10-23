@@ -3,8 +3,7 @@ The ideaof this blog is to condence my experience in my time at he academy my ti
 
 ## Coherent Raman Spectroscopy Based on Interference of Entangled Photon Pairs
 
-![Alt text](D:\42\pregrado fisica\MJ\MiguelJaramillo\WhatsApp-Image-2025-07-24-at-4.39.52-PM-1536x512.jpeg "Optional title")
-
+![alt text](WhatsApp-Image-2025-07-24-at-4.39.52-PM-1536x512.jpeg)
 
 
 
