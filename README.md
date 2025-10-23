@@ -6,5 +6,5 @@ The ideaof this blog is to condence my experience in my time at he academy my ti
 ![alt text](WhatsApp-Image-2025-07-24-at-4.39.52-PM-1536x512.jpeg)
 
 ## cv
-[[cv.md]]
 
+[[cv.md]]
