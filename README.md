@@ -5,6 +5,4 @@ The idea of this blog is to condense my experience within the academy, my time d
 
 ## cv
 
-check out [cv][cv]
-
-[cv]: https://m16u3lll.github.io/MiguelJaramillo/cv
+Here you will find my [cv](/CV_Miguel_A_Jaramillo_Q.pdf)

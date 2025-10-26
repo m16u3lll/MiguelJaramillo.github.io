@@ -4,5 +4,9 @@ title: "Curriculim vitae"
 theme: jekyll-theme-minimal
 permalink: /cv
 ---
+# cv
+---
+check out [cv][cv]
 
-Here you will find my [cv](/CV_Miguel_A_Jaramillo_Q.pdf)
+[cv]: https://m16u3lll.github.io/MiguelJaramillo/cv
+---
