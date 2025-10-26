@@ -35,9 +35,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem "jekyll-scholar"
-end
-
+gem "jekyll", "~> 3.10"
+gem "jekyll-scholar"
+gem "webrick" # if needed locally
 
 
