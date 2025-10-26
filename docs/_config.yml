@@ -37,6 +37,11 @@ email: miguel.quenguan@correounivalle.edu.co
 plugins:
   - jekyll-feed
   - jekyll-scholar
+  - jekyll-katex
+katex:
+  delimiters:
+    - left: "$$"; right: "$$"; display: true
+    - left: "$";  right: "$";  display: false
 
 scholar:
   style: apa
