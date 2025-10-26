@@ -36,6 +36,7 @@ email: miguel.quenguan@correounivalle.edu.co
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-scholar
 
 scholar:
   style: apa
