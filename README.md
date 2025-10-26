@@ -7,4 +7,8 @@ The idea of this blog is to condense my experience within the academy, my time d
 
 ## cv
 
+check out [cv][cv]
+
+[cv]: https://m16u3lll.github.io/MiguelJaramillo/cv
+
 [[cv.md]]
