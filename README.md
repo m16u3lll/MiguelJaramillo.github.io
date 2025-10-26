@@ -3,12 +3,8 @@ The idea of this blog is to condense my experience within the academy, my time d
 
 ## Coherent Raman Spectroscopy Based on Interference of Entangled Photon Pairs
 
-![alt text](Biphotons interference - sin soporte.pdf)
-
 ## cv
 
 check out [cv][cv]
 
 [cv]: https://m16u3lll.github.io/MiguelJaramillo/cv
-
-[[cv.md]]
