@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Curriculim vitae"
+theme: jekyll-theme-minimal
 permalink: /cv
 ---
 
