@@ -40,10 +40,18 @@ plugins:
 scholar:
   style: apa
   locale: en
-  bibliography: references.bib
   source: ./_bibliography
+  bibliography: references.bib
   bibliography_template: bibliography
-
+  sort_by: author
+  order: ascending
+  # Add more options as needed:
+  replace_strings: true
+  join_strings: true
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  query: "@*"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
