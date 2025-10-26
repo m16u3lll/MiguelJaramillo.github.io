@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Coherent Raman Spectroscopy via Interference of Entangled Photon Pairs"
+author: Miguel Ángel Jaramillo Quenguán
+date: 2025-08-29
+categories: research
+tags: [quantum-spectroscopy, quantum-lidar, su11, qfrs, entanglement]
+bibliography: references.bib
+---
+
 # Academic notes and research works
 Hi :D The idea of this blog is to condense my experience within the academy, my time doing research and my time solving problems. If you are interested in my CV you can find it here, and more detailed description of my current work too.
 
