@@ -30,15 +30,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          bundle init || true
           echo 'source "https://rubygems.org"' > Gemfile
           echo 'gem "jekyll", "~> 3.10"' >> Gemfile
           echo 'gem "jekyll-scholar"' >> Gemfile
           echo 'gem "webrick"' >> Gemfile
           bundle install
 
-      - name: Build Jekyll site
-        run: bundle exec jekyll build
+      - name: Build Jekyll site with Scholar
+        run: bundle exec jekyll build --trace
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3

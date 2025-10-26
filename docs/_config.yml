@@ -40,7 +40,7 @@ plugins:
 scholar:
   style: apa
   locale: en
-  bibliography: proyecto-TGNotes.bib
+  bibliography: references.bib
   source: ./_bibliography
   bibliography_template: bibliography
 
