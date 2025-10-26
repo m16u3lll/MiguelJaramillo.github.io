@@ -48,15 +48,14 @@ jobs:
       - name: Build Jekyll site (Allows jekyll-scholar)
         working-directory: ./docs
         run: |
-          cd docs
           bundle install --jobs 4 --retry 3
-          bundle exec jekyll build --future --destination "${{ steps.pages.outputs.base_path }}"
+          bundle exec jekyll build --future --destination "_site"
 
       # 4. Upload the built site artifacts
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ${{ steps.pages.outputs.base_path }}
+          path: ./docs/_site
 
   # Job to deploy the site
   deploy:
