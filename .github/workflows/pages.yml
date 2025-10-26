@@ -5,14 +5,11 @@ on:
   push:
     branches:
       - main # or master - change this to your default branch name
-      - release/*
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-on:  
+      - 'release/*'
   pull_request:
     branches:
-    - main
+      - main
+  workflow_dispatch:
 
 # Sets permissions for the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -47,7 +44,10 @@ jobs:
 
       # 3. Build the Jekyll site using the custom Gemfile
       - name: Build Jekyll site (Allows jekyll-scholar)
-        run: bundle exec jekyll build --future --destination ${{ steps.pages.outputs.base_path }}
+        working-directory: ./docs
+        run: |
+          bundle install --jobs 4 --retry 3
+          bundle exec jekyll build --future --destination "${{ steps.pages.outputs.base_path }}"
 
       # 4. Upload the built site artifacts
       - name: Upload artifact
