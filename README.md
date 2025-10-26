@@ -91,7 +91,7 @@ Analyze theoretical models to quantify the potential enhancement of **quantum-li
 
 ---
 
-## Methodology (Summary)
+## Methodology (in bullets)
 
 The project is divided into two main phases:  
 
@@ -114,7 +114,7 @@ Modeling of quantum interference in an SU(1,1) configuration with two SPDC sourc
 ## Budget (Summary)
 
 The project relies on resources and computational infrastructure provided by the **QuanTIC Research Group** and **CIBioFi**, Universidad del Valle.  
-The total estimated budget amounts to approximately **22.7 million COP**, covering computing time and supervision hours.
+
 
 ---
 
