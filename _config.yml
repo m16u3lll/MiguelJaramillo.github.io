@@ -1,4 +1,9 @@
+domain: m16u3lll.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://m16u3lll.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /MiguelJaramillo/      # place folder name if the site is served in a subfolder
+
 theme: jekyll-theme-minimal
 title: Notes from a Physics Journey
 Subtitle:  Academic notes and research works by Miguel Jaramillo
 description: Bookmark this to keep an eye on my project updates!
+
