@@ -5,9 +5,15 @@ on:
   push:
     branches:
       - main # or master - change this to your default branch name
+      - release/*
 
-  # Allows you to run this workflow manually from the Actions tab
+on:  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  
+on:
+  pull_request:
+    branches:
+    - main
 
 # Sets permissions for the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
