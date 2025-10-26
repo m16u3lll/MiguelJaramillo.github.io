@@ -41,6 +41,8 @@ jobs:
         with:
           ruby-version: '3.1' # Must be compatible with your Gemfile
           bundler-cache: true # Installs gems defined in Gemfile
+          cache-version: 0 # Add this line to force cache refresh
+          working-directory: './docs' # Add this line to specify Gemfile location
 
       # 3. Build the Jekyll site using the custom Gemfile
       - name: Build Jekyll site (Allows jekyll-scholar)
