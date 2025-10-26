@@ -8,7 +8,9 @@ author: Miguel Ángel Jaramillo Quenguán
 categories: research
 tags: [quantum-spectroscopy, quantum-lidar, su11, qfrs, entanglement]
 bibliography: references.bib
+mathjax: true
 ---
+
 Hi :D The idea of this blog is to condense my experience within the academy, my time doing research and my time solving problems. If you are interested in my CV you can find it here, and more detailed description of my current work too.
 
 Miguel Ángel Jaramillo Quenguan
@@ -129,4 +131,4 @@ The project relies on resources and computational infrastructure provided by the
 
 # CV
 
-Here you will find my [cv](/CV_Miguel_A_Jaramillo_Q.pdf).
+Here you will find my [cv](/MiguelJaramillo/CV_Miguel_A_Jaramillo_Q.pdf).

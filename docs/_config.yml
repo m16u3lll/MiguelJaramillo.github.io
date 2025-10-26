@@ -27,6 +27,12 @@ title: Notes from a Physics Journey
 Subtitle:  Academic notes and research works by Miguel Jaramillo
 description: Bookmark this to keep an eye on my project updates!
 
+# Add this to your _config.yml
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  
 
 email: miguel.quenguan@correounivalle.edu.co
 # twitter_username: jekyllrb
@@ -37,16 +43,6 @@ email: miguel.quenguan@correounivalle.edu.co
 plugins:
   - jekyll-feed
   - jekyll-scholar
-  - jekyll-katex
-katex:
-  delimiters:
-    - left: "$$"
-      right: "$$"
-      display: true
-    - left: "$"
-      right: "$"
-      display: false
-
 scholar:
   style: apa
   locale: en
