@@ -15,6 +15,8 @@ Hi :D The idea of this blog is to condense my experience within the academy, my 
 
 Miguel Ángel Jaramillo Quenguan
 
+# Poster
+
 Complement to the [poster](/MiguelJaramillo/poster.pdf).
 
 # Coherent Raman Spectroscopy via Interference of Entangled Photon Pairs (Undergraduate Research Project)
