@@ -71,7 +71,7 @@ The general state for a superposition of \( k \) entangled-photon generation pat
 
 $$|\Phi\rangle = \sum_k \int d\omega_s \, d\omega_i \, \Phi_k(\omega_s, \omega_i) \, a^\dagger_{\omega_s,k} a^\dagger_{\omega_i,k} |0\rangle, $$
 
-where \( \Phi_k(\omega_s, \omega_i) \) is the **joint spectral amplitude** defining time–frequency correlations between the signal and idler photons.  
+where \( $\Phi_k(\omega_s, \omega_i)$ \) is the **joint spectral amplitude** defining time–frequency correlations between the signal and idler photons.  
 
 The detection of coincident photons is described by:
 
