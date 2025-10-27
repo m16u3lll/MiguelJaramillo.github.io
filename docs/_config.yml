@@ -27,6 +27,10 @@ title: Notes from a Physics Journey
 Subtitle:  Academic notes and research works by Miguel Jaramillo
 description: Bookmark this to keep an eye on my project updates!
 
+markdown: kramdown
+kramdown:
+  math_engine: mathjax # This is often the default on GitHub Pages
+
 email: miguel.quenguan@correounivalle.edu.co
 # twitter_username: jekyllrb
 # github_username:  jekyll
